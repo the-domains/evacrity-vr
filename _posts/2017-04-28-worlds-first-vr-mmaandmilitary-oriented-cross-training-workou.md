@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   World’s first VR MMA&Military oriented cross-training workout by Scie of
   Evacrity - 640kcal in 49 minutes!
-dateModified: '2017-04-28T12:40:06.407Z'
-datePublished: '2017-04-28T12:40:06.877Z'
+dateModified: '2017-04-28T12:41:06.136Z'
+datePublished: '2017-04-28T12:41:06.601Z'
 title: ''
 author: []
 publisher: {}
