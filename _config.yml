@@ -37,11 +37,11 @@ navigation:
   - name: Evacrity Youtube Channel
     url: 'https://www.youtube.com/channel/UCif4DnRhmIxC9llo8TCzrPQ'
     type: external
-  - name: Evacrity Twitter
-    url: 'https://twitter.com/'
-    type: external
   - name: Instagram
     url: 'https://www.instagram.com/evacrity/'
+    type: external
+  - name: Evacrity Twitter
+    url: 'https://twitter.com/'
     type: external
   - name: Blog
     url: 'http://evacrity.tumblr.com/'
