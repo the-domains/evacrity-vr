@@ -10,6 +10,7 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+github: true
 layout_spectrum: 0.1334736367196103
 analytics:
   twitter: '@evacrity'
@@ -21,6 +22,7 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa17c84-62ae-47af-8ab8-e64ae3384819.png
 name: Evacrity VR
+url: 'http://evacrity.com/'
 colors:
   brandColors:
     - 'hsl(0,0%,100%)'
@@ -46,6 +48,9 @@ navigation:
     type: external
   - name: Gab.ai
     url: 'https://gab.ai/evacrity'
+    type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/evacrity/'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/55993fb6-f8db-4184-925f-3dc04d164ca0.png
@@ -107,5 +112,3 @@ purpose:
   - type: internal
     label: About Evacrity
     item: 5aea83df-5919-443e-b4e7-e545b07491e4
-url: 'http://evacrity.com/'
-github: true
