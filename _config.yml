@@ -43,11 +43,11 @@ navigation:
   - name: Blog
     url: 'http://evacrity.tumblr.com/'
     type: external
-  - name: Patreon
-    url: 'https://www.patreon.com/evacrity'
-    type: external
   - name: Instagram
     url: 'https://www.instagram.com/evacrity/'
+    type: external
+  - name: Patreon
+    url: 'https://www.patreon.com/evacrity'
     type: external
   - name: Gab.ai
     url: 'https://gab.ai/evacrity'
