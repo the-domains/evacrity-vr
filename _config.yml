@@ -46,11 +46,11 @@ navigation:
   - name: Patreon
     url: 'https://www.patreon.com/evacrity'
     type: external
-  - name: Gab.ai
-    url: 'https://gab.ai/evacrity'
-    type: external
   - name: Instagram
     url: 'https://www.instagram.com/evacrity/'
+    type: external
+  - name: Gab.ai
+    url: 'https://gab.ai/evacrity'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/55993fb6-f8db-4184-925f-3dc04d164ca0.png
