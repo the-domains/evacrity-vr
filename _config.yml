@@ -1,0 +1,111 @@
+typography_spectrum: 0.5614623526280912
+color:
+  brandStrength: 0.007365259669241633
+  lightness: 0.17432716089411465
+  saturation: 0.9251208338446657
+  rhythmicContrast: 0.29955946322087895
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+layout_spectrum: 0.1334736367196103
+analytics:
+  twitter: '@evacrity'
+  google: UA-97897450-1
+author:
+  name: Evacrity
+  email: info@evacrity.com
+  url: 'http://evacrity.com'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa17c84-62ae-47af-8ab8-e64ae3384819.png
+name: Evacrity VR
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: Evacrity Twitch
+    url: 'https://www.twitch.tv/evacrity'
+    type: external
+  - name: Evacrity Youtube Channel
+    url: 'https://www.youtube.com/channel/UCif4DnRhmIxC9llo8TCzrPQ'
+    type: external
+  - name: Evacrity Twitter
+    url: 'https://twitter.com/'
+    type: external
+  - name: Blog
+    url: 'http://evacrity.tumblr.com/'
+    type: external
+  - name: Patreon
+    url: 'https://www.patreon.com/evacrity'
+    type: external
+  - name: Gab.ai
+    url: 'https://gab.ai/evacrity'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/55993fb6-f8db-4184-925f-3dc04d164ca0.png
+title: Evacrity VR - Gaming Meets Fitness
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65986e56-0880-4a50-a2bf-556c352f38b5.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/65986e56-0880-4a50-a2bf-556c352f38b5.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16182ed3-dab3-4573-9782-54287b00db63.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/16182ed3-dab3-4573-9782-54287b00db63.jpg
+    metadata:
+      datePublished: null
+      keywords: []
+      related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: VR games and simulations the most physical way possible.
+purpose:
+  - type: contact
+    url: 'mailto:info@evacrity.com'
+    label: Email us
+  - type: internal
+    label: About Evacrity
+    item: 5aea83df-5919-443e-b4e7-e545b07491e4
+url: 'http://evacrity.com/'
+github: true
