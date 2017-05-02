@@ -37,6 +37,9 @@ navigation:
   - name: Evacrity Youtube Channel
     url: 'https://www.youtube.com/channel/UCif4DnRhmIxC9llo8TCzrPQ'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/evacrityVR/?ref=aymt_homepage_panel'
+    type: external
   - name: Instagram
     url: 'https://www.instagram.com/evacrity_vr/'
     type: external
@@ -51,9 +54,6 @@ navigation:
     type: external
   - name: Gab.ai
     url: 'https://gab.ai/evacrity'
-    type: external
-  - name: Facebook
-    url: 'https://www.facebook.com/evacrityVR/?ref=aymt_homepage_panel'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/55993fb6-f8db-4184-925f-3dc04d164ca0.png
