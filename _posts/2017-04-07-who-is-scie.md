@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ville “Scie” Piispanen is the director of Evacrity VR. The mind behind most of
   the plan and the body primarily executing the plan.
-dateModified: '2017-05-03T00:05:46.812Z'
-datePublished: '2017-05-03T00:05:47.557Z'
+dateModified: '2017-05-03T00:22:09.157Z'
+datePublished: '2017-05-03T00:22:10.448Z'
 title: Who is Scie?
 author: []
 publisher: {}
@@ -49,3 +49,5 @@ Ville "Scie" Piispanen is the director of Evacrity VR. The mind behind most of t
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3217f111-1745-45ed-8784-d9a58d32bd56.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9257764e-5f0c-4d51-9232-dec0f99abc6a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afb1b795-1dbe-478a-b0e6-c6a1cf2e8f31.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3f9caed-f3c9-4654-9eea-f1f2de312a09.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/746dd85f-98e9-4aa2-a843-272104fc0333.jpg)
