@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ville “Scie” Piispanen is the director of Evacrity VR. The mind behind most of
   the plan and the body primarily executing the plan.
-dateModified: '2017-05-03T00:22:09.157Z'
-datePublished: '2017-05-03T00:22:10.448Z'
+dateModified: '2017-05-03T00:26:16.079Z'
+datePublished: '2017-05-03T00:26:17.608Z'
 title: Who is Scie?
 author: []
 publisher: {}
@@ -40,14 +40,16 @@ Ville "Scie" Piispanen is the director of Evacrity VR. The mind behind most of t
   * Ville served 5 years in total in the Finnish army after reaching the rank of lieutenant. His core branch training is jaeger platoon leader, jaegers being the Finnish equivalent for army rangers. He is currently not in active duty, but occasionally signs short-term contracts with Finnish army for instructor or specialist tasks in Finland and abroad. EU & UN military crisis management veteran.
 * Entrepreneur
 * VR Gamer
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7ed63e2-1512-4866-bbc5-a9fa8e280e26.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/21cf35dc-1656-454e-b92c-27f1da0c490c.png)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b92a3d8e-cdf8-41a3-8a31-679b803a2049.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a3cf2f0-4ebf-4333-b332-f7e182e4be12.jpg)
+![](https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5d720016e63e5ae8e7b56caa30562825/croprotate.jpg?cropheight=1200&cropwidth=1586&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F0a3cf2f0-4ebf-4333-b332-f7e182e4be12.jpg&x=7&y=0)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/879af28e-1653-4d9f-94cc-85b4179e49f4.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/081f8357-f500-4009-8bab-b06d335df73e.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3217f111-1745-45ed-8784-d9a58d32bd56.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9257764e-5f0c-4d51-9232-dec0f99abc6a.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/afb1b795-1dbe-478a-b0e6-c6a1cf2e8f31.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b3f9caed-f3c9-4654-9eea-f1f2de312a09.jpg)
+
+---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/50f45919-8161-409e-aa51-b2ec44f6a042.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/746dd85f-98e9-4aa2-a843-272104fc0333.jpg)
