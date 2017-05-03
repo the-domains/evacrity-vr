@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ville “Scie” Piispanen is the director of Evacrity VR. The mind behind most of
   the plan and the body primarily executing the plan.
-dateModified: '2017-05-03T13:26:14.319Z'
-datePublished: '2017-05-03T13:26:15.167Z'
+dateModified: '2017-05-03T18:56:08.131Z'
+datePublished: '2017-05-03T18:56:08.994Z'
 title: Who is Scie?
 author: []
 publisher: {}
@@ -17,17 +17,6 @@ url: who-is-scie/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0bcd7fac-e0bd-476c-aa9f-f5b50b1838c9.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8d9bc54-62e7-4933-adc9-e2527576e4d3.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba935088-bea1-4733-a8c3-a3475b5c766e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6269422-d40e-4e87-b4e0-4f1602190e31.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/04b1e20b-51fd-471a-996d-dd76aefb3b7e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72384d6c-186b-4ba5-a74c-3eac51cdf261.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4c3e43dc-ac8f-4bba-a460-928f8a65dc46.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b459876a-d476-4199-a62a-a1cbe5be36b1.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3893c865-e5e7-47ac-b4ad-221818666d6e.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/57381c5b-e117-4217-bca5-7d1f63446c0d.jpg)
-
 # Who is Scie?
 
 ## Present
