@@ -112,6 +112,3 @@ purpose:
   - type: contact
     url: 'mailto:info@evacrity.com'
     label: Email us
-  - type: internal
-    label: About Evacrity
-    item: 037e5d22-2b17-45fa-a4db-cd7dc329adcf
