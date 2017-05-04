@@ -7,16 +7,18 @@ description: >-
   to train physical attributes or conduct physical therapy. We like gaming, but
   we like to put our bodies to work even more, luckily we can do both and that
   is exactly what we’re after.
-dateModified: '2017-05-04T19:14:01.291Z'
-datePublished: '2017-05-04T19:14:01.896Z'
+dateModified: '2017-05-04T19:14:25.053Z'
+datePublished: '2017-05-04T19:14:25.598Z'
 title: Evacrity in a nutshell
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-05-04-evacrity-in-a-nutshell.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-05-04T19:14:01.896Z'
-sourcePath: _posts/2017-05-04-evacrity-in-a-nutshell.md
-_type: Blurb
+url: evacrity-in-a-nutshell/index.html
+_type: Article
 
 ---
 # Evacrity in a nutshell
