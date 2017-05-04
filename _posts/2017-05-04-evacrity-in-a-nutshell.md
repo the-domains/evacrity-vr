@@ -7,8 +7,8 @@ description: >-
   to train physical attributes or conduct physical therapy. We like gaming, but
   we like to put our bodies to work even more, luckily we can do both and that
   is exactly what we’re after.
-dateModified: '2017-05-04T19:14:25.053Z'
-datePublished: '2017-05-04T19:14:25.598Z'
+dateModified: '2017-05-04T19:16:31.393Z'
+datePublished: '2017-05-04T19:16:32.015Z'
 title: Evacrity in a nutshell
 author: []
 publisher: {}
