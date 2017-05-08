@@ -108,4 +108,7 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: VR games and simulations the most physical way possible.
-purpose: []
+purpose:
+  - type: internal
+    label: Contact
+    item: da772011-5421-4bf1-ae33-d8c6e2ac2315
