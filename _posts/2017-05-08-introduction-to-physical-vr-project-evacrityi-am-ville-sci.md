@@ -38,16 +38,16 @@ description: >-
   weekly, we make videos and stream physical gaming. We are currently upgrading
   our studio to make it even better, we want to relay the biggest possible
   amount of the virtual reality wonder we are experiencing to the viewer.
-dateModified: '2017-05-08T21:26:21.627Z'
-datePublished: '2017-05-08T21:26:22.598Z'
+dateModified: '2017-05-08T21:28:18.541Z'
+datePublished: '2017-05-08T21:28:19.331Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
-datePublishedOriginal: '2017-05-08T21:26:22.598Z'
 sourcePath: >-
   _posts/2017-05-08-introduction-to-physical-vr-project-evacrityi-am-ville-sci.md
+starred: false
+datePublishedOriginal: '2017-05-08T21:26:22.598Z'
 _type: Blurb
 
 ---
@@ -60,4 +60,4 @@ Evacrity was made public at the start of April this year. I got the idea during 
 it had been on the drawing board ever since, so everything would be prepared when the time came, I knew I was onto something. The wait was heartbreaking, but finally in 2017 the required technology and everything we needed as a team was available and the project was launched. In this World it often comes down to what you can prove, not just what you can do. Evacrity was our secret until we were ready to show what we do.  
 Evacrity creates content weekly, we make videos and stream physical gaming. We are currently upgrading our studio to make it even better, we want to relay the biggest possible amount of the virtual reality wonder we are experiencing to the viewer.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzksOgzAMANGrWD4AIVD1J0zPQokhkVyCjAnq7Vu1y1k8abo06fBi2HQkjGbrdnduleHNWtmRbIyVFfcoKXCm4tub9yffNAg_9swaWAlrhEEkH9Muso3KvBCa7ozwrSySlplwyQiR0xyNsL1cEY4ULBKemxp76Nz_pP8AaWkwsw" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzksOgzAMANGrWD4AIVD1J0zPQokhkVyCjAnq7Vu1y1k8abo06fBi2HQkjGbrdnduleHNWtmRbIyVFfcoKXCm4tub9yffNAg_9swaWAlrhEEkH9Muso3KvBCa7ozwrSySlplwyQiR0xyNsL1cEY4ULBKemxp76Nz_pP8AaWkwsw" height="378" style=""></iframe>
