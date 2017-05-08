@@ -108,7 +108,4 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: VR games and simulations the most physical way possible.
-purpose:
-  - type: contact
-    url: 'mailto:info@evacrity.com'
-    label: Email us
+purpose: []
