@@ -38,8 +38,8 @@ description: >-
   weekly, we make videos and stream physical gaming. We are currently upgrading
   our studio to make it even better, we want to relay the biggest possible
   amount of the virtual reality wonder we are experiencing to the viewer.
-dateModified: '2017-05-08T21:28:18.541Z'
-datePublished: '2017-05-08T21:28:19.331Z'
+dateModified: '2017-05-08T21:30:39.330Z'
+datePublished: '2017-05-08T21:30:40.374Z'
 title: ''
 author: []
 publisher: {}
@@ -61,3 +61,5 @@ it had been on the drawing board ever since, so everything would be prepared whe
 Evacrity creates content weekly, we make videos and stream physical gaming. We are currently upgrading our studio to make it even better, we want to relay the biggest possible amount of the virtual reality wonder we are experiencing to the viewer.
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzksOgzAMANGrWD4AIVD1J0zPQokhkVyCjAnq7Vu1y1k8abo06fBi2HQkjGbrdnduleHNWtmRbIyVFfcoKXCm4tub9yffNAg_9swaWAlrhEEkH9Muso3KvBCa7ozwrSySlplwyQiR0xyNsL1cEY4ULBKemxp76Nz_pP8AaWkwsw" height="378" style=""></iframe>
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUEKwjAQAMCvhH1AIwpVpOlJKHgteG-SrQkkbt1sCP29oh-YGeLKS0bVopdgoD8eQAWMzyAGTucLqMLOQBDZylXr1lq3U5VqsXOUNWaLXs_bO-98e9wnAvXjLLFHNvDFlpSorTWl4hjxNQ76P44f3WIqLw" height="378" style=""></iframe>
