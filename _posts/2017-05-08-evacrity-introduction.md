@@ -16,8 +16,8 @@ description: >-
   is a natural combination for me personally, because of my army background.
   When I step into the virtual world myself, I'm after a workout, exercise or
   both, every single time.
-dateModified: '2017-05-08T21:47:05.260Z'
-datePublished: '2017-05-08T21:47:06.268Z'
+dateModified: '2017-05-08T21:53:37.956Z'
+datePublished: '2017-05-08T21:53:38.587Z'
 title: Evacrity introduction
 author: []
 publisher: {}
@@ -38,6 +38,6 @@ I aim to be the first professional cyberathlete, vAthlete, vrAthlete, whichever 
 
 Evacrity was made public at the start of April this year. I got the idea during my Middle East deployment in 2014 and it had been on the drawing board ever since, so everything would be prepared when the time came, I knew I was onto something. The wait was heartbreaking, but finally in 2017 the required technology and everything we needed as a team was available and the project was launched. In this World it often comes down to what you can prove, not just what you can do. Evacrity was our secret until we were ready to show what we do. We create content weekly, making videos and streaming physical gaming. We are currently upgrading our studio to make it even better, we want to relay the biggest possible amount of the virtual reality wonder we are experiencing to the viewer.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzlEKgzAMgOGrlBzA2joGG0bP4jTaQtZKGi27_WR7_B8--Pu4yvQmU2RGCKp7eVq78_QhabRGnUOjpx3PuFDG03UP527OezA_9sqykCC0YCbmXNeDucxClBBUDgJzVWaOaUNIGUyguAVF6NqL1LhoQLj7FgbT2__J8AVn6zCk" height="300" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzlEKgzAMgOGrlBzA2joGG0bP4jTaQtZKGi27_WR7_B8--Pu4yvQmU2RGCKp7eVq78_QhabRGnUOjpx3PuFDG03UP527OezA_9sqykCC0YCbmXNeDucxClBBUDgJzVWaOaUNIGUyguAVF6NqL1LhoQLj7FgbT2__J8AVn6zCk" height="304" style=""></iframe>
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwljUEKwyAQAL8i-4AYWughxJwKhV4LvUfdVEG7yboi-X1DepzDzIxx4TmjatFLMHC79KACxk8QA9f-gMLOQBBZy6B1a63bqUq12DnKGrNFr1_rlne-v58PAnXmLLFHNnD4c0rUlppScYz4nUb9P04_1_cqIA" height="300" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwljUEKwyAQAL8i-4AYWughxJwKhV4LvUfdVEG7yboi-X1DepzDzIxx4TmjatFLMHC79KACxk8QA9f-gMLOQBBZy6B1a63bqUq12DnKGrNFr1_rlne-v58PAnXmLLFHNnD4c0rUlppScYz4nUb9P04_1_cqIA" height="304" style=""></iframe>
