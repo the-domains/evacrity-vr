@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   Ville “Scie” Piispanen is the director of Evacrity VR. The mind behind most of
   the plan and the body primarily executing the plan.
-dateModified: '2017-05-08T21:52:14.110Z'
-datePublished: '2017-05-08T21:52:15.085Z'
+dateModified: '2017-05-08T21:52:55.278Z'
+datePublished: '2017-05-08T21:52:56.097Z'
 title: Who is Scie?
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ Ville "Scie" Piispanen is the director of Evacrity VR. The mind behind most of t
   * Age: 29
   * Height: 180cm
   * Weight 77kg
-  * From: Finland
+  * Nationality: Finnish
   * Nickname: V
 
 ## Past
