@@ -32,7 +32,7 @@ colors:
     - 'hsl(0,0%,20%)'
 navigation:
   - name: Evacrity Twitch
-    url: 'https://www.twitch.tv/evacrity'
+    url: 'https://www.twitch.tv/scieVR'
     type: external
   - name: Evacrity Youtube Channel
     url: 'https://www.youtube.com/channel/UCif4DnRhmIxC9llo8TCzrPQ'
@@ -63,23 +63,23 @@ content:
     type: image
     html: >-
       <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65986e56-0880-4a50-a2bf-556c352f38b5.jpg">
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d4998ac-3ff0-4a3d-a515-094864cd1235.jpg">
     src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/65986e56-0880-4a50-a2bf-556c352f38b5.jpg
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d4998ac-3ff0-4a3d-a515-094864cd1235.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
       author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
+      related: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
       description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -87,28 +87,31 @@ content:
     type: image
     html: >-
       <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/16182ed3-dab3-4573-9782-54287b00db63.jpg">
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dda35690-df72-40b6-a1e8-0398a99f77c7.jpg">
     src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/16182ed3-dab3-4573-9782-54287b00db63.jpg
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/dda35690-df72-40b6-a1e8-0398a99f77c7.jpg
     metadata:
-      datePublished: null
-      keywords: []
-      related: []
       author: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      app_links: []
+      related: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
       description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: VR games and simulations the most physical way possible.
+description: 'Physical, realistic and immersive VR gaming content'
 purpose:
   - type: internal
     label: Contact
     item: da772011-5421-4bf1-ae33-d8c6e2ac2315
+  - type: internal
+    label: Evacrity introduction
+    item: 6e6bdbf1-3575-40e6-bbd9-6080d00a013b
