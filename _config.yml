@@ -20,7 +20,7 @@ author:
   email: info@evacrity.com
   url: 'http://evacrity.com'
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4aa17c84-62ae-47af-8ab8-e64ae3384819.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/442f7450-8f6d-4e30-bf53-eca73ea7b7b6.png
 name: Evacrity VR
 url: 'http://evacrity.com/'
 colors:
@@ -56,7 +56,7 @@ navigation:
     url: 'https://gab.ai/evacrity'
     type: external
 favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/55993fb6-f8db-4184-925f-3dc04d164ca0.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/05bf3359-d383-43dd-a475-355d98f7b64b.png
 title: Evacrity VR - Gaming Meets Fitness
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
