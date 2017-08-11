@@ -16,8 +16,8 @@ description: >-
   is a natural combination for me personally, because of my army background.
   When I step into the virtual world myself, I'm after a workout, exercise or
   both, every single time.
-dateModified: '2017-08-11T12:49:15.455Z'
-datePublished: '2017-08-11T12:49:16.203Z'
+dateModified: '2017-08-11T12:54:42.006Z'
+datePublished: '2017-08-11T12:54:42.707Z'
 title: Evacrity introduction
 author: []
 publisher: {}
@@ -30,6 +30,8 @@ url: evacrity-introduction/index.html
 _type: Article
 
 ---
+> 
+
 # Evacrity introduction
 
 I am Ville "Scie" Piispanen, the mind and body behind VR project Evacrity. Consumer virtual reality is finally taking its first steps. We don't only take part in the movement, we are willing to shape certain fields with our own example. Evacrity is about fitness, realism and immersion and the approach seems to be very rare or even unique at the moment. We want to make virtual reality gaming sessions harder, tougher, more demanding and more realistic and showcase these possibilities to the viewers. We do this by utilizing every single piece of equipment we can think of. Infantry soldier camouflage uniform, tactical equipment, body armors, weighted clothing, virtual reality locomotion platform, heart rate monitor and more conventional exercise equipment like kettlebells have already seen virtual reality use in our hands and there is more to come. First person shooter games and infantry combat gear is a natural combination for me personally, because of my army background. When I step into the virtual world myself, I'm after a workout, exercise or both, every single time.
@@ -40,7 +42,7 @@ Evacrity was made public at the start of April this year. I got the idea during 
 
 Ville's speech from ArtTech Seminars 2017, Helsinki Finland, Aug 3rd.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzrEKwjAQgOFXCTc4NqmCqPQqLoIgOIpjm16bQJpIcjH69hYd_-GDv7Fj7GYSKWoEw_xMBylLKdUnZM49VTrMsnSszfGFF1U_rqf37XyfVox1vdsnED_fhzhQRFAgOudCGbNzSUcij8AxE4ilgnPWTwg-gDBkJ8MIG7WQYgc2CNu1glY08r_UfgFY9jP7" height="310" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9UvTyxJzrAvszUOjfSOco_y1q2MBABiaQ-C" height="310" style=""></iframe>
 
 Starbreeze Studios' John Wick Chronicles relistic pistol simulation leaderboard record in combat gear.
 
