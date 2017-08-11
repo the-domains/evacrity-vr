@@ -16,8 +16,8 @@ description: >-
   is a natural combination for me personally, because of my army background.
   When I step into the virtual world myself, I'm after a workout, exercise or
   both, every single time.
-dateModified: '2017-08-11T13:03:40.808Z'
-datePublished: '2017-08-11T13:03:41.588Z'
+dateModified: '2017-08-11T13:06:03.474Z'
+datePublished: '2017-08-11T13:06:04.300Z'
 title: Evacrity introduction
 author: []
 publisher: {}
@@ -40,7 +40,7 @@ Evacrity was made public at the start of April this year. I got the idea during 
 
 Ville's speech from ArtTech Seminars 2017, Helsinki, Finland, Aug 3rd - VR combined with physical exercise
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzbEKwjAQgOFXCTc4NomCqPQqLoIgOIpjml6bQGokuRh9e0XHf_n-1o_JzCSqH9ghrJcKhCM_OUZYqW_kZBEc8yPvpKy1Nu9YuPTU2DjLati6_RNPSt_Oh9fleJ0WjFpvthnED-5jGighaBAmhFjHEkK2iejetfL_7j5IGyxQ" height="310" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzyUwrSsxNVSjPTCnJsFUyMTJQUshIzUzPKLFVMjY0UOIqLkq2VcooKSkottLXLy8v16vMLy0pTUrVS87P1S9PLEnOsC-z9TQwjPRxrPB3C09XK7E1NLSwLFay47LRhxhuBwCI4iB2" height="310" style=""></iframe>
 
 Starbreeze Studios' John Wick Chronicles relistic pistol simulation leaderboard record in combat gear.
 
