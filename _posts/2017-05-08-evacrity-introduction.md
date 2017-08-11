@@ -16,11 +16,18 @@ description: >-
   is a natural combination for me personally, because of my army background.
   When I step into the virtual world myself, I'm after a workout, exercise or
   both, every single time.
-dateModified: '2017-08-11T13:06:03.474Z'
-datePublished: '2017-08-11T13:06:04.300Z'
+dateModified: '2017-08-11T13:10:39.940Z'
+datePublished: '2017-08-11T13:10:40.279Z'
 title: Evacrity introduction
-author: []
-publisher: {}
+author:
+  - name: AssemblyTV
+    url: 'https://www.youtube.com/user/AssemblyTV'
+    avatar: {}
+publisher:
+  url: 'https://www.youtube.com/'
+  name: YouTube
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+  domain: www.youtube.com
 via: {}
 hasPage: true
 sourcePath: _posts/2017-05-08-evacrity-introduction.md
@@ -40,10 +47,12 @@ Evacrity was made public at the start of April this year. I got the idea during 
 
 Ville's speech from ArtTech Seminars 2017, Helsinki, Finland, Aug 3rd - VR combined with physical exercise
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJyzyUwrSsxNVSjPTCnJsFUyMTJQUshIzUzPKLFVMjY0UOIqLkq2VcooKSkottLXLy8v16vMLy0pTUrVS87P1S9PLEnOsC-z9TQwjPRxrPB3C09XK7E1NLSwLFay47LRhxhuBwCI4iB2" height="310" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FI01YLAxOFWg%3Fstart%3D1189%26feature%3Doembed%26start%3D1189&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DI01YLAxOFWg&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FI01YLAxOFWg%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 Starbreeze Studios' John Wick Chronicles relistic pistol simulation leaderboard record in combat gear.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzbEOgjAQgOFXaW6XoiQOhuLowMwAWymHbVKsuV658PYaHf_l-9uwkt1QSVjYG7healAew9Ozgab-RiZnwDO_801rEamOVLjMWLm0abHs_H03zTD202PqT8cI6gfOiRYkA2dQNsYka4kxO0J8da3-P7sPEcoqSQ" height="310" style=""></iframe>
+<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2F3UYKZGZK-yY%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3UYKZGZK-yY&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2F3UYKZGZK-yY%2Fhqdefault.jpg&amp;key=a715cf41cc93453ca338d350cd26f87b&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
 ## Published articles about Evacrity:
+
+<article style=""><img src="https://i1.wp.com/www.vrfitnessinsider.com/wp-content/uploads/2017/05/18222779_697588847114821_8804019865389105152_n.jpg?fit=720%2C406&amp;ssl=1" /><h1>VR Fitness Intensified: Is this man the first VR Athlete? - VR Fitness Insider</h1><p>With so much innovation happening in VR these days, it's hard to keep track of all the players in the game. One player we've been noticing a lot these days is Ville "Scie" Piispanen, the mind and body behind a VR project called Evacrity.</p></article>
