@@ -16,8 +16,8 @@ description: >-
   is a natural combination for me personally, because of my army background.
   When I step into the virtual world myself, I'm after a workout, exercise or
   both, every single time.
-dateModified: '2017-08-11T12:57:07.727Z'
-datePublished: '2017-08-11T12:57:08.236Z'
+dateModified: '2017-08-11T12:58:23.692Z'
+datePublished: '2017-08-11T12:58:24.457Z'
 title: Evacrity introduction
 author: []
 publisher: {}
@@ -47,7 +47,3 @@ Starbreeze Studios' John Wick Chronicles relistic pistol simulation leaderboard 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzbEOgjAQgOFXaW6XEkkYDIejA7MDbKUctkmxpr1y4e0lOv7L93d-TWYjJX5hh9Bea1CO_MsxQlOfkZNFcMyffNNaRKojFi4zVTZuWgxbd9-xeY7D9JiGyzGC-oFzTAslhFMwIURZSwjZJqJ33-n_s_8CEa4qSA" height="310" style=""></iframe>
 
 ## Published articles about Evacrity:
-
-[http://www.vrfitnessinsider.com/vr-fitness-intensified-man-first-vr-athlete/][0]
-
-[0]: http://www.vrfitnessinsider.com/vr-fitness-intensified-man-first-vr-athlete/ "VR Fitness Insider - First VR athlete?"
