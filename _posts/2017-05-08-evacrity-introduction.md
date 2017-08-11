@@ -16,8 +16,8 @@ description: >-
   is a natural combination for me personally, because of my army background.
   When I step into the virtual world myself, I'm after a workout, exercise or
   both, every single time.
-dateModified: '2017-08-11T13:02:15.856Z'
-datePublished: '2017-08-11T13:02:16.409Z'
+dateModified: '2017-08-11T13:03:40.808Z'
+datePublished: '2017-08-11T13:03:41.588Z'
 title: Evacrity introduction
 author: []
 publisher: {}
@@ -38,16 +38,12 @@ I aim to be the first professional cyberathlete, vAthlete, vrAthlete, whichever 
 
 Evacrity was made public at the start of April this year. I got the idea during my Middle East deployment in 2014 and it had been on the drawing board ever since, so everything would be prepared when the time came, I knew I was onto something. The wait was heartbreaking, but finally in 2017 the required technology and everything we needed as a team was available and the project was launched. In this World it often comes down to what you can prove, not just what you can do. Evacrity was our secret until we were ready to show what we do. We create content weekly, making videos and streaming physical gaming. We are currently upgrading our studio to make it even better, we want to relay the biggest possible amount of the virtual reality wonder we are experiencing to the viewer.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9UvTyxJzrAvs_U0MIz0cazwdwtPVyuxNTS0sCwGAOWWEYk" height="244" style=""></iframe>
+Ville's speech from ArtTech Seminars 2017, Helsinki, Finland, Aug 3rd - VR combined with physical exercise
 
-https://www.youtube.com/watch?v=I01YLAxOFWg&t=1189s
-
-Ville's speech from ArtTech Seminars 2017, Helsinki Finland, Aug 3rd.
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzbEKwjAQgOFXCTc4NomCqPRaXARBcBTHNk2bQGokuXj69hYd_-X7az-mbraC_UAOYbtWIJz1kyOEjVoiJ4PgiJ75ICUzV59YqPS2MnGW3JFx7QvPSt8vx_f1dJtWhFrv9hnED-5jGmxCWKQuhMhjCSGbZO2jqeX_3XwBR_8sTw" height="310" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzbEKwjAQgOFXCTc4NomCqPQqLoIgOIpjml6bQGokuRh9e0XHf_n-1o_JzCSqH9ghrJcKhCM_OUZYqW_kZBEc8yPvpKy1Nu9YuPTU2DjLati6_RNPSt_Oh9fleJ0WjFpvthnED-5jGighaBAmhFjHEkK2iejetfL_7j5IGyxQ" height="310" style=""></iframe>
 
 Starbreeze Studios' John Wick Chronicles relistic pistol simulation leaderboard record in combat gear.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzbEOgjAQgOFXaW6XEkkYDIejA7MDbKUctkmxpr1y4e0lOv7L93d-TWYjJX5hh9Bea1CO_MsxQlOfkZNFcMyffNNaRKojFi4zVTZuWgxbd9-xeY7D9JiGyzGC-oFzTAslhFMwIURZSwjZJqJ33-n_s_8CEa4qSA" height="310" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzbEOgjAQgOFXaW6XoiQOhuLowMwAWymHbVKsuV658PYaHf_l-9uwkt1QSVjYG7healAew9Ozgab-RiZnwDO_801rEamOVLjMWLm0abHs_H03zTD202PqT8cI6gfOiRYkA2dQNsYka4kxO0J8da3-P7sPEcoqSQ" height="310" style=""></iframe>
 
 ## Published articles about Evacrity:
