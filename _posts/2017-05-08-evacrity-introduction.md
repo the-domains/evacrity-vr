@@ -16,8 +16,8 @@ description: >-
   is a natural combination for me personally, because of my army background.
   When I step into the virtual world myself, I'm after a workout, exercise or
   both, every single time.
-dateModified: '2017-08-11T13:00:54.736Z'
-datePublished: '2017-08-11T13:00:55.451Z'
+dateModified: '2017-08-11T13:02:15.856Z'
+datePublished: '2017-08-11T13:02:16.409Z'
 title: Evacrity introduction
 author: []
 publisher: {}
@@ -37,6 +37,8 @@ I am Ville "Scie" Piispanen, the mind and body behind VR project Evacrity. Consu
 I aim to be the first professional cyberathlete, vAthlete, vrAthlete, whichever the term will be, the World's fittest professional gamer and to drive the physical, realistic VR competitive scene forward as a vanguard. How I see it going, a typical traditional gamer will soon be a thing of the past as competitive gaming and eSports will shift towards more physically demanding direction. Both gaming skills and physical attributes will be required if you are aiming to be successful. Wouldn't it be more entertaining if the competitors ran with their own feet instead of using controllers? I have hard time using a controller nowadays, because I've already used a locomotion platform and moved with my own feet in VR games. Open question - Wouldn't gaming scene like this, promoting healthy lifestyle and working both body and mind, provide better idols and goals for the youth who nowadays grow in the middle of computers?
 
 Evacrity was made public at the start of April this year. I got the idea during my Middle East deployment in 2014 and it had been on the drawing board ever since, so everything would be prepared when the time came, I knew I was onto something. The wait was heartbreaking, but finally in 2017 the required technology and everything we needed as a team was available and the project was launched. In this World it often comes down to what you can prove, not just what you can do. Evacrity was our secret until we were ready to show what we do. We create content weekly, making videos and streaming physical gaming. We are currently upgrading our studio to make it even better, we want to relay the biggest possible amount of the virtual reality wonder we are experiencing to the viewer.
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJzLKCkpKLbS1y8vL9erzC8tKU1K1UvOz9UvTyxJzrAvs_U0MIz0cazwdwtPVyuxNTS0sCwGAOWWEYk" height="244" style=""></iframe>
 
 https://www.youtube.com/watch?v=I01YLAxOFWg&t=1189s
 
