@@ -16,8 +16,8 @@ description: >-
   is a natural combination for me personally, because of my army background.
   When I step into the virtual world myself, I'm after a workout, exercise or
   both, every single time.
-dateModified: '2017-08-11T12:54:42.006Z'
-datePublished: '2017-08-11T12:54:42.707Z'
+dateModified: '2017-08-11T12:54:43.214Z'
+datePublished: '2017-08-11T12:54:43.629Z'
 title: Evacrity introduction
 author: []
 publisher: {}
