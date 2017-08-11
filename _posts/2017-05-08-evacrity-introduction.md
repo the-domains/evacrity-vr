@@ -16,8 +16,8 @@ description: >-
   is a natural combination for me personally, because of my army background.
   When I step into the virtual world myself, I'm after a workout, exercise or
   both, every single time.
-dateModified: '2017-05-08T21:55:26.536Z'
-datePublished: '2017-05-08T21:55:28.518Z'
+dateModified: '2017-08-11T12:49:15.455Z'
+datePublished: '2017-08-11T12:49:16.203Z'
 title: Evacrity introduction
 author: []
 publisher: {}
@@ -38,10 +38,14 @@ I aim to be the first professional cyberathlete, vAthlete, vrAthlete, whichever 
 
 Evacrity was made public at the start of April this year. I got the idea during my Middle East deployment in 2014 and it had been on the drawing board ever since, so everything would be prepared when the time came, I knew I was onto something. The wait was heartbreaking, but finally in 2017 the required technology and everything we needed as a team was available and the project was launched. In this World it often comes down to what you can prove, not just what you can do. Evacrity was our secret until we were ready to show what we do. We create content weekly, making videos and streaming physical gaming. We are currently upgrading our studio to make it even better, we want to relay the biggest possible amount of the virtual reality wonder we are experiencing to the viewer.
 
-Doom 3 BFG Edition in VR with HTC Vive, Wizdish ROVR locomotion platform and infantry tactical equipment for added weight, immersion and realism.
+Ville's speech from ArtTech Seminars 2017, Helsinki Finland, Aug 3rd.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzlEKgzAMgOGrlBzA2joGG0bP4jTaQtZKGi27_WR7_B8--Pu4yvQmU2RGCKp7eVq78_QhabRGnUOjpx3PuFDG03UP527OezA_9sqykCC0YCbmXNeDucxClBBUDgJzVWaOaUNIGUyguAVF6NqL1LhoQLj7FgbT2__J8AVn6zCk" height="304" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzrEKwjAQgOFXCTc4NqmCqPQqLoIgOIpjm16bQJpIcjH69hYd_-GDv7Fj7GYSKWoEw_xMBylLKdUnZM49VTrMsnSszfGFF1U_rqf37XyfVox1vdsnED_fhzhQRFAgOudCGbNzSUcij8AxE4ilgnPWTwg-gDBkJ8MIG7WQYgc2CNu1glY08r_UfgFY9jP7" height="310" style=""></iframe>
 
-World's first MMA&Military oriented cross-training workout done by Scie using Starbreeze Studios' John Wick Chronicles
+Starbreeze Studios' John Wick Chronicles relistic pistol simulation leaderboard record in combat gear.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwljUEKwyAQAL8i-4AYWughxJwKhV4LvUfdVEG7yboi-X1DepzDzIxx4TmjatFLMHC79KACxk8QA9f-gMLOQBBZy6B1a63bqUq12DnKGrNFr1_rlne-v58PAnXmLLFHNnD4c0rUlppScYz4nUb9P04_1_cqIA" height="304" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzbEOgjAQgOFXaW6XEkkYDIejA7MDbKUctkmxpr1y4e0lOv7L93d-TWYjJX5hh9Bea1CO_MsxQlOfkZNFcMyffNNaRKojFi4zVTZuWgxbd9-xeY7D9JiGyzGC-oFzTAslhFMwIURZSwjZJqJ33-n_s_8CEa4qSA" height="310" style=""></iframe>
+
+## Published articles about Evacrity:
+
+http://www.vrfitnessinsider.com/vr-fitness-intensified-man-first-vr-athlete/
