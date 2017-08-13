@@ -46,9 +46,6 @@ navigation:
   - name: Evacrity Twitter
     url: 'https://twitter.com/'
     type: external
-  - name: Blog
-    url: 'http://evacrity.tumblr.com/'
-    type: external
   - name: Patreon
     url: 'https://www.patreon.com/evacrity'
     type: external
