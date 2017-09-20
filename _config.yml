@@ -31,6 +31,9 @@ colors:
     - 'hsl(0,0%,30%)'
     - 'hsl(0,0%,20%)'
 navigation:
+  - name: Steemit blog
+    url: 'https://steemit.com/@scievr'
+    type: external
   - name: Evacrity Twitch
     url: 'https://www.twitch.tv/scieVR'
     type: external
@@ -51,9 +54,6 @@ navigation:
     type: external
   - name: Gab.ai
     url: 'https://gab.ai/evacrity'
-    type: external
-  - name: Steemit blog
-    url: 'https://steemit.com/@scievr'
     type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/05bf3359-d383-43dd-a475-355d98f7b64b.png
