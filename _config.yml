@@ -52,6 +52,9 @@ navigation:
   - name: Gab.ai
     url: 'https://gab.ai/evacrity'
     type: external
+  - name: Steemit blog
+    url: 'https://steemit.com/@scievr'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/05bf3359-d383-43dd-a475-355d98f7b64b.png
 title: Evacrity VR - Gaming Meets Fitness
@@ -64,19 +67,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d4998ac-3ff0-4a3d-a515-094864cd1235.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -88,19 +91,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/dda35690-df72-40b6-a1e8-0398a99f77c7.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
